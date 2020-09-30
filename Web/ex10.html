@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <h1>Object</h1>
+    <h2>Create</h2>
+    <script>
+        var coworkers = {
+          "programmer" :"fdfsd",
+          "designer":"sfffffffffa"
+        };
+        document.write("programmer: "+coworkers.programmer+"<br>");
+        document.write("designer: "+coworkers.designer+"<br>");
+        coworker.bookkeeper = "c";
+    </script>
+    <h2>Iterate</h2>
+    <script>
+        coworkers.showAll = function(){
+          for(var key in coworkers){
+            document.write(key+' : '+this[key]+'<br>');
+          }
+        }
+        coworkers.showAll();
+      </script>
+      <h2>Property & method</h2>
+  </body>
+</html>
