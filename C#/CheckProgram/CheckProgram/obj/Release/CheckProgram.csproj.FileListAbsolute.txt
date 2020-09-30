@@ -1,0 +1,12 @@
+C:\Users\dltjr\Desktop\Dev\C#\CheckProgram\CheckProgram\obj\Release\CheckProgram.Form.resources
+C:\Users\dltjr\Desktop\Dev\C#\CheckProgram\CheckProgram\obj\Release\CheckProgram.Properties.Resources.resources
+C:\Users\dltjr\Desktop\Dev\C#\CheckProgram\CheckProgram\obj\Release\CheckProgram.Form.ko.resources
+C:\Users\dltjr\Desktop\Dev\C#\CheckProgram\CheckProgram\obj\Release\CheckProgram.csproj.GenerateResource.cache
+C:\Users\dltjr\Desktop\Dev\C#\CheckProgram\CheckProgram\obj\Release\CheckProgram.csproj.CoreCompileInputs.cache
+C:\Users\dltjr\Desktop\Dev\C#\CheckProgram\CheckProgram\obj\Release\ko\CheckProgram.resources.dll
+C:\Users\dltjr\Desktop\CheckProgram.exe.config
+C:\Users\dltjr\Desktop\Dev\C#\CheckProgram\CheckProgram\obj\Release\CheckProgram.exe
+C:\Users\dltjr\Desktop\Dev\C#\CheckProgram\CheckProgram\obj\Release\CheckProgram.pdb
+C:\Users\dltjr\Desktop\CheckProgram.exe
+C:\Users\dltjr\Desktop\CheckProgram.pdb
+C:\Users\dltjr\Desktop\ko\CheckProgram.resources.dll

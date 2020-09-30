@@ -1,0 +1,15 @@
+C:\Users\dltjr\Desktop\Dev\C#\CheckProgram\CheckProgram\bin\Debug\CheckProgram.exe.config
+C:\Users\dltjr\Desktop\Dev\C#\CheckProgram\CheckProgram\bin\Debug\CheckProgram.exe
+C:\Users\dltjr\Desktop\Dev\C#\CheckProgram\CheckProgram\bin\Debug\CheckProgram.pdb
+C:\Users\dltjr\Desktop\Dev\C#\CheckProgram\CheckProgram\bin\Debug\ko\CheckProgram.resources.dll
+C:\Users\dltjr\Desktop\Dev\C#\CheckProgram\CheckProgram\obj\Debug\CheckProgram.Form.resources
+C:\Users\dltjr\Desktop\Dev\C#\CheckProgram\CheckProgram\obj\Debug\CheckProgram.Properties.Resources.resources
+C:\Users\dltjr\Desktop\Dev\C#\CheckProgram\CheckProgram\obj\Debug\CheckProgram.Form.ko.resources
+C:\Users\dltjr\Desktop\Dev\C#\CheckProgram\CheckProgram\obj\Debug\CheckProgram.csproj.GenerateResource.cache
+C:\Users\dltjr\Desktop\Dev\C#\CheckProgram\CheckProgram\obj\Debug\CheckProgram.csproj.CoreCompileInputs.cache
+C:\Users\dltjr\Desktop\Dev\C#\CheckProgram\CheckProgram\obj\Debug\ko\CheckProgram.resources.dll
+C:\Users\dltjr\Desktop\Dev\C#\CheckProgram\CheckProgram\obj\Debug\CheckProgram.exe
+C:\Users\dltjr\Desktop\Dev\C#\CheckProgram\CheckProgram\obj\Debug\CheckProgram.pdb
+C:\Users\dltjr\Desktop\Dev\C#\CheckProgram\CheckProgram\obj\Debug\CheckProgram.csprojAssemblyReference.cache
+C:\Users\dltjr\Desktop\Dev\C#\CheckProgram\CheckProgram\obj\Debug\CheckProgram.Form2.resources
+C:\Users\dltjr\Desktop\Dev\C#\CheckProgram\CheckProgram\obj\Debug\CheckProgram.csproj.ResolveComReference.cache
